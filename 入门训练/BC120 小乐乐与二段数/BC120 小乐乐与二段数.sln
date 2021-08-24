@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BC120 小乐乐与二段数", "BC120 小乐乐与二段数\BC120 小乐乐与二段数.vcxproj", "{34D482EC-C173-4F77-B85B-6D5C4DADFA1A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34D482EC-C173-4F77-B85B-6D5C4DADFA1A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{34D482EC-C173-4F77-B85B-6D5C4DADFA1A}.Debug|Win32.Build.0 = Debug|Win32
+		{34D482EC-C173-4F77-B85B-6D5C4DADFA1A}.Release|Win32.ActiveCfg = Release|Win32
+		{34D482EC-C173-4F77-B85B-6D5C4DADFA1A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
